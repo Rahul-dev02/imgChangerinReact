@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import { useState } from "react"
-import './App.css'
+
 
 const App=()=>{
 const Images=["teacher1.jpg","student2.jpg","student4.jpg","student5.jpg","student6.jpg"]
